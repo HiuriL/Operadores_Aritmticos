@@ -52,11 +52,4 @@ O principal objetivo deste repositório é:
 
 ---
 
-## 📂 Estrutura do Repositório
-
-📁 **Operadores_Aritméticos**
-    ┣ 📄 Exercícios envolvendo operações matemáticas
-    ┣ 📄 Atividades práticas em Python
-    ┗ 📄 Resoluções e desafios propostos
-
 ⭐ Se este repositório foi útil para você, considere deixar uma estrela!
